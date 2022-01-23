@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+Used Packages: 
+  - http: ^0.13.4
+  - flutter_screenutil: ^5.1.0
+  - google_fonts: ^2.2.0
+  - cached_network_image: ^3.2.0 
+
+![rickmorty](https://user-images.githubusercontent.com/70916991/150678828-be5ba455-ba2d-4343-9d37-81aa9d56d5ac.gif)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

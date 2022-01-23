@@ -1,4 +1,4 @@
-# rick_monty
+# rick_morty
 
 A new Flutter project.
 
